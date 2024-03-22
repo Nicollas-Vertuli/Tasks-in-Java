@@ -15,7 +15,7 @@ public class Principal {
      */
     public static void main(String[] args) {
 
-        Aluno objetoAluno1 = new Aluno("Nicollas", 18, 1.5, 80, "nicollasvertuli1@gmail.com");
+        Aluno objetoAluno1 = new Aluno("Nicollas", 18, 1.5, 80, "nicolau1345#gmmail");
 
         JOptionPane.showMessageDialog(null, "nome:" + objetoAluno1.getNome() + "\nidade:" + objetoAluno1.getIdade() + "\npeso:" + objetoAluno1.getPeso() + "\naltura;" + objetoAluno1.getAltura());
 
